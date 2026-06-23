@@ -1,4 +1,4 @@
-require "big_float"
+require "bigt"
 require "./human_file_size/*"
 
 module HumanFileSize
